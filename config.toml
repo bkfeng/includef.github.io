@@ -183,8 +183,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
     alipay = "/path/to/your/alipay-qr-code.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
-    a-email = "feng130925@gmail.com"
-    g-github = "mailto:https://github.com/includef"
+    a-email = "mailto:feng130925@gmail.com"
+    g-github = "https://github.com/includef"
 
     # b-stack-overflow = "http://localhost:1313"
     # c-twitter = "http://localhost:1313"
