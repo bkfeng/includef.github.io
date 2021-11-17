@@ -1,6 +1,6 @@
 baseURL = "https://includef.github.io/"
 languageCode = "en"
-defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
+defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "includef's blog"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
@@ -184,7 +184,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [params.social]                                         # 社交链接
     a-email = "feng130925@gmail.com"
-    g-github = "https://includef.github.com"
+    g-github = "mailto:https://github.com/includef"
 
     # b-stack-overflow = "http://localhost:1313"
     # c-twitter = "http://localhost:1313"
