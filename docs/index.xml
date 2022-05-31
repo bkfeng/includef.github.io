@@ -6,9 +6,37 @@
     <description>Recent content on includef&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
+    <lastBuildDate>Tue, 31 May 2022 13:01:12 +0000</lastBuildDate>
     
 	<atom:link href="https://includef.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Test2</title>
+      <link>https://includef.github.io/post/test2/</link>
+      <pubDate>Tue, 31 May 2022 13:01:12 +0000</pubDate>
+      
+      <guid>https://includef.github.io/post/test2/</guid>
+      <description>测试 java</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://includef.github.io/post/test/</link>
+      <pubDate>Wed, 17 Nov 2021 22:15:41 +0800</pubDate>
+      
+      <guid>https://includef.github.io/post/test/</guid>
+      <description>test231312 test3244</description>
+    </item>
+    
+    <item>
+      <title>Test1</title>
+      <link>https://includef.github.io/post/test1/</link>
+      <pubDate>Wed, 17 Nov 2021 22:15:41 +0800</pubDate>
+      
+      <guid>https://includef.github.io/post/test1/</guid>
+      <description>测试 java -v</description>
+    </item>
     
   </channel>
 </rss>
