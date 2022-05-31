@@ -1,2 +1,1 @@
 User-agent: *
-Sitemap: https://includef.github.io/sitemap.xml
