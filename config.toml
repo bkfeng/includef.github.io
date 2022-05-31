@@ -1,6 +1,6 @@
 baseURL = "https://includef.github.io/"
-languageCode = "en"
-defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "includef's blog"
 preserveTaxonomyNames = true
 enableRobotsTXT = true
